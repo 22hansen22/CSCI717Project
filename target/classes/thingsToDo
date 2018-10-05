@@ -2,4 +2,3 @@
 - Make page that redirects when login is not correct
 - Change CSS of the login page
 - Modify web.xml so it goes directly to teacher mode
-- implement logout
